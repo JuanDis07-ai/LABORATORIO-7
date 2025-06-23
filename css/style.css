@@ -1,0 +1,160 @@
+/* General */
+body {
+  scroll-behavior: smooth;
+  background-color: #121212;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* NAVBAR */
+.navbar {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.nav-link {
+  transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #3A7BFF !important;
+  text-decoration: underline;
+}
+
+/* HERO SECTION */
+.hero-section {
+  background: linear-gradient(135deg, #D8ECFF, #ffffff);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+.hero-box {
+  max-width: 1100px;
+  width: 100%;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.hero-box img {
+  border: 6px solid white;
+  transition: transform 0.3s ease;
+}
+
+.hero-box img:hover {
+  transform: scale(1.05);
+}
+
+.hero-text h1 {
+  font-size: 48px;
+}
+
+.hero-text p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.buttons .btn {
+  padding: 10px 24px;
+  font-weight: 600;
+  border-radius: 30px;
+}
+
+/* ACERCA DE MÍ */
+#acerca {
+  background: #f2f6fa;
+  color: #333;
+}
+
+#acerca .container {
+  background-color: white;
+  border-radius: 20px;
+  padding: 40px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+
+/* CONTACTO */
+#contacto {
+  background-color: #1a1a1a;
+}
+
+#contacto h2 {
+  color: #ffffff;
+}
+
+#contacto p {
+  font-size: 16px;
+  color: #dddddd;
+}
+
+#contacto form {
+  background-color: #2a2a2a;
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(255,255,255,0.05);
+}
+
+#contacto input,
+#contacto textarea {
+  background-color: #444;
+  border: none;
+  color: #fff;
+}
+
+#contacto input::placeholder,
+#contacto textarea::placeholder {
+  color: #bbb;
+}
+
+#contacto button {
+  background-color: #3A7BFF;
+  color: white;
+  border-radius: 30px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+#contacto button:hover {
+  background-color: #5F9EFF;
+}
+
+/* PROYECTOS */
+#proyectos {
+  background-color: #ffffff;
+  color: #000;
+}
+
+#proyectos .card {
+  border: none;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+  border-radius: 15px;
+}
+
+#proyectos .card:hover {
+  transform: translateY(-8px);
+}
+
+/* SKILLS */
+#skills {
+  background-color: #f0f0f0;
+  color: #111;
+}
+
+#skills img {
+  transition: transform 0.3s ease;
+}
+
+#skills img:hover {
+  transform: scale(1.15);
+}
+
+/* FOOTER */
+footer {
+  background-color: #000;
+  color: #fff;
+  padding: 20px;
+  font-size: 14px;
+}
