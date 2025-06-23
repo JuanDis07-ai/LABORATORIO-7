@@ -8,3 +8,4 @@ https://www.figma.com/design/5S2dZzVUMq5zu6Mw4ij03a/Blog-Persona-Juan-Diego-Cuev
 
 ## ENLACE GITHUB PAGES
 
+https://juandis07-ai.github.io/LABORATORIO-7/
