@@ -4,7 +4,7 @@ https://github.com/JuanDis07-ai/LABORATORIO-7
 
 ## FIGMA
 
-https://www.figma.com/design/5S2dZzVUMq5zu6Mw4ij03a/Blog-Persona-Juan-Diego-Cueva?node-id=0-1&t=haFs2D1Q1qOyZw7w-1
+https://www.figma.com/design/XzDPN1k9blOCCcFBVM9096/Untitled?node-id=0-1&t=Bt1hkPxKZfXYx8kc-1
 
 ## ENLACE GITHUB PAGES
 
